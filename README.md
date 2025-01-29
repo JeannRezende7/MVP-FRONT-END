@@ -1,6 +1,6 @@
 # MVP-FRONT-END
 
-Esse é um projeto academico, foi desenvolvido um pouco as pressas para o curso de MVP (Minimum Viable Product).
+Esse é um projeto academico para o curso de MVP (Minimum Viable Product).
 
 O produto é uma agenda fácil, com funcionalidades simples e intuitivas, onde temos uma tela de login para segurança, uma tela principal onde vai listar as tarefas, e uma tela de cadastrar tarefas com campo de data,titulo e descrição. Tudo bem simplificado para uso facilitado de qualquer usuário.
 
